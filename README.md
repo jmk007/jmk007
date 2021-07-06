@@ -9,7 +9,7 @@ they excel and where they are limited.
 1. Use of Python, Pandas, Orange to analyze and visualize such datasets;
 1. Understand resources available to create historical datasets of this information for later analysis.
 1. Approaches to integrating/linking non-financial information (development indicators, KPIs and risks) into historical data to help identify and elaborate on narratives.
-- 📫 How to reach me. I can be reached through <GitHub or email at kennedyj at who.int
+- 📫 How to reach me. I can be reached through GitHub or email at kennedyj at who.int
 
 <!---
 jmk007/jmk007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
