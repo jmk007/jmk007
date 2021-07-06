@@ -6,8 +6,9 @@ associated visualizations. I've experimented with Orange Data Science and am imp
 Challenges that I'm encountering include diversity of visualization packages available in Python and the apparently different approaches they take, where 
 they excel and where they are limited. PowerBI appears to excel in this area, but the requires "dashboard" approach to data analysis.
 
-Indeed, initially enbarked on a "dashboard" orientation to presenting information/analyses, but have discovered that it requires "active" and "interrested" audience. Some
-folks have requested training. This has led to a more "narrative" approach to presenting such information through a Jupyter Notebook approach in which information is presented in a more narrative manner with no assumption of the user interacting more than reading and understanding the information presented.
+Indeed, initially I had embarked on a "dashboard"-orientation to presenting information/analyses, but have discovered that it requires a level
+of read engagement that may not always hold true. This can be especially true with "senior" level individuals. In fact, some
+folks have requested training as the dashboards are beyond their confort-zone. This has led to a more "storytelling" approach to presenting information through a Jupyter Notebooks  in which information is presented in a more narrative and predigested manner with no assumption of the user interacting more than reading and understanding the information presented.
 
 - 💞️ I’m looking to collaborate on :
 1. Data analysis in relation to financial and other information associated with large public sector health projects;
