@@ -13,9 +13,9 @@ folks have requested training as the dashboards are beyond their confort-zone. T
 - 💞️ I’m looking to collaborate on :
 1. Data analysis in relation to financial and other information associated with large public sector health projects;
 1. Use of Python, Pandas, Orange to analyze and visualize such datasets;
-1. Understand resources available to create historical datasets of this information for later analysis.
+1. Understand resources available to organize and create historical datasets of this information for later analysis.
 1. Approaches to integrating/linking non-financial information (development indicators, KPIs and risks) into historical data to help identify and elaborate on narratives.
-2. 1. Alternative information presentations than dashboards - specifically those associated with a more narrative approach.
+1. Alternative information presentations than dashboards - specifically those associated with a more narrative approach.
 - 📫 How to reach me. I can be reached through GitHub or email at kennedyj at who.int
 
 <!---
